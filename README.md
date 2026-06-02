@@ -5,7 +5,7 @@
 I lead technology paradigm shifts in manufacturing environments — the kind that
 end up as reference cases for the rest of the industry. Three times in 12 years
 I've been deployed at the leading edge of a new production paradigm inside the
-VW Group. Each delivery became the Group benchmark.
+VW Group. Each delivery became a Group benchmark.
 
 ---
 
@@ -15,14 +15,14 @@ VW Group. Each delivery became the Group benchmark.
 Led the greenfield deployment of the complete vehicle electronics commissioning
 system at a brand-new joint venture factory. First VW Group factory ever built
 with zero classical commissioning infrastructure. Mentored two engineers from
-scratch. Became the Group reference case.
+scratch. Became a Group reference case.
 
 **SEAT S.A. — Barcelona, Spain (2020–2023)**
-Executed the first full-factory live system migration of its kind in the VW
-Group — two platforms running in parallel production until cutover was complete.
-Simultaneously led the deployment of a digitized, automated commissioning
-paradigm that eliminated manual operator intervention on the line. Both became
-Group benchmarks. Other factories asked for the playbook.
+Led the deployment of a digitized, automated commissioning
+paradigm that eliminated manual operator intervention on the line. 
+Then I rode the first wave of full-factory live system migration in the VW
+Group — two platforms running in parallel production until cutover was complete. 
+Both became Group benchmarks. Other factories asked for the playbook.
 
 **Audi México — Puebla, Mexico (2014–2020)**
 Led the full deployment of the vehicle electronics commissioning platform across
