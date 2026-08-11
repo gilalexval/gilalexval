@@ -34,15 +34,25 @@ and live production support — for six years.
 
 ## What I'm building now
 
-Applying the same instinct to AI. Current projects:
+Two AI projects, both built inside a Microsoft 365 Copilot + Power Platform
+environment — not standalone code, but tools built where the work actually
+happens.
 
-- **Forecast Evaluation Engine** — automated feasibility assessment of
-  production forecasts from the supply chain perspective. Replaces a
-  manual, multi-source analysis process.
+**Decision Engine** — a two-phase build replacing a manual analyst workflow
+in supply chain operations.
+- *Phase 1 (in progress):* Data-gathering and calculation tools built with
+  Power Automate and Office Scripts — assistive tools that cut the manual
+  legwork out of the analyst's process.
+- *Phase 2:* A Copilot Studio agent that orchestrates those tools into a
+  single end-to-end analysis workflow.
 
-- **Supply Decision Engine** — automated assessment of whether planned
-  supply of a component can be enhanced to meet production order demand.
-  Eliminates manual cross-referencing and accelerates decision cycles.
+**Forecast Evaluation Engine** — same shift in approach: rebuilt on Power
+Automate and Office Scripts to replace a slow, manual forecast-assessment
+process with something that runs in minutes instead of hours.
+
+Both are proof of the same instinct that shaped the SIDIS PRIME migration
+and the NEV Co deployment: when the tooling changes, go build inside it —
+don't wait for someone else to.
 
 ---
 
